@@ -9,5 +9,5 @@ spec:
   url: oci://ghcr.io/kyverno/manifests/kyverno
   ref:
     tag: "v1.9.0"
-  verify:
-    provider: cosign
+  # verify:
+  #   provider: cosign
